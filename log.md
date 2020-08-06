@@ -20,3 +20,9 @@
 **Thoughts**: I really struggled with understanding the question. To get solution ask the requirment in other way.
 
 **Link(s) to work**: [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+### Day 3: August 06, 2020
+
+**Today's Progress**: Heap Trees.
+
+**Link(s) to work**: [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
