@@ -26,3 +26,10 @@
 **Today's Progress**: Heap Trees.
 
 **Link(s) to work**: [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+
+### Day 4: August 10, 2020
+
+**Today's Progress**: Permutation.
+
+**Link(s) to work**: [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
